@@ -1,0 +1,15 @@
+D:\文档保存\Day02-练习代码\obj\Debug\net10.0\Day02-练习代码.GeneratedMSBuildEditorConfig.editorconfig
+D:\文档保存\Day02-练习代码\obj\Debug\net10.0\Day02-练习代码.AssemblyInfoInputs.cache
+D:\文档保存\Day02-练习代码\obj\Debug\net10.0\Day02-练习代码.AssemblyInfo.cs
+D:\文档保存\Day02-练习代码\obj\Debug\net10.0\Day02-练习代码.csproj.CoreCompileInputs.cache
+D:\文档保存\Day02-练习代码\obj\Debug\net10.0\Day02-练习代码.sourcelink.json
+D:\文档保存\Day02-练习代码\bin\Debug\net10.0\Day02-练习代码.exe
+D:\文档保存\Day02-练习代码\bin\Debug\net10.0\Day02-练习代码.deps.json
+D:\文档保存\Day02-练习代码\bin\Debug\net10.0\Day02-练习代码.runtimeconfig.json
+D:\文档保存\Day02-练习代码\bin\Debug\net10.0\Day02-练习代码.dll
+D:\文档保存\Day02-练习代码\bin\Debug\net10.0\Day02-练习代码.pdb
+D:\文档保存\Day02-练习代码\obj\Debug\net10.0\Day02-练习代码.dll
+D:\文档保存\Day02-练习代码\obj\Debug\net10.0\refint\Day02-练习代码.dll
+D:\文档保存\Day02-练习代码\obj\Debug\net10.0\Day02-练习代码.pdb
+D:\文档保存\Day02-练习代码\obj\Debug\net10.0\Day02-练习代码.genruntimeconfig.cache
+D:\文档保存\Day02-练习代码\obj\Debug\net10.0\ref\Day02-练习代码.dll
